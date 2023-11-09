@@ -1,0 +1,1271 @@
+FOLDERNAME
+Patient Name
+Patient ID
+Patient Sex
+Patient Age
+Date of Exam
+Amygdala Total Volume
+Amygdala Left Side Volume
+Amygdala Right Side Volume
+Amygdala Total Percent Of Icv
+Amygdala Left Percent Of Icv
+Amygdala Right Percent Of Icv
+Amygdala Norm Percentile
+Amygdala Norm 5th Percentile
+Amygdala Norm 95th Percentile
+Amygdala Left Norm Percentile
+Amygdala Left Norm 5th Percentile
+Amygdala Left Norm 95th Percentile
+Amygdala Right Norm Percentile
+Amygdala Right Norm 5th Percentile
+Amygdala Right Norm 95th Percentile
+Amygdala Asymmetry Index
+Amygdala Asymmetry Norm Percentile
+Amygdala Asymmetry Norm 5th Percentile
+Amygdala Asymmetry Norm 95th Percentile
+Anterior Middle Frontal Total Volume
+Anterior Middle Frontal Left Side Volume
+Anterior Middle Frontal Right Side Volume
+Anterior Middle Frontal Total Percent Of Icv
+Anterior Middle Frontal Left Percent Of Icv
+Anterior Middle Frontal Right Percent Of Icv
+Anterior Middle Frontal Norm Percentile
+Anterior Middle Frontal Norm 5th Percentile
+Anterior Middle Frontal Norm 95th Percentile
+Anterior Middle Frontal Left Norm Percentile
+Anterior Middle Frontal Left Norm 5th Percentile
+Anterior Middle Frontal Left Norm 95th Percentile
+Anterior Middle Frontal Right Norm Percentile
+Anterior Middle Frontal Right Norm 5th Percentile
+Anterior Middle Frontal Right Norm 95th Percentile
+Anterior Middle Frontal Asymmetry Index
+Anterior Middle Frontal Asymmetry Norm Percentile
+Anterior Middle Frontal Asymmetry Norm 5th Percentile
+Anterior Middle Frontal Asymmetry Norm 95th Percentile
+Posterior Superior Temporal Sulcus Total Volume
+Posterior Superior Temporal Sulcus Left Side Volume
+Posterior Superior Temporal Sulcus Right Side Volume
+Posterior Superior Temporal Sulcus Total Percent Of Icv
+Posterior Superior Temporal Sulcus Left Percent Of Icv
+Posterior Superior Temporal Sulcus Right Percent Of Icv
+Posterior Superior Temporal Sulcus Norm Percentile
+Posterior Superior Temporal Sulcus Norm 5th Percentile
+Posterior Superior Temporal Sulcus Norm 95th Percentile
+Posterior Superior Temporal Sulcus Left Norm Percentile
+Posterior Superior Temporal Sulcus Left Norm 5th Percentile
+Posterior Superior Temporal Sulcus Left Norm 95th Percentile
+Posterior Superior Temporal Sulcus Right Norm Percentile
+Posterior Superior Temporal Sulcus Right Norm 5th Percentile
+Posterior Superior Temporal Sulcus Right Norm 95th Percentile
+Posterior Superior Temporal Sulcus Asymmetry Index
+Posterior Superior Temporal Sulcus Asymmetry Norm Percentile
+Posterior Superior Temporal Sulcus Asymmetry Norm 5th Percentile
+Posterior Superior Temporal Sulcus Asymmetry Norm 95th Percentile
+Basal Ganglia Total Volume
+Basal Ganglia Left Side Volume
+Basal Ganglia Right Side Volume
+Basal Ganglia Total Percent Of Icv
+Basal Ganglia Left Percent Of Icv
+Basal Ganglia Right Percent Of Icv
+Basal Ganglia Norm Percentile
+Basal Ganglia Norm 5th Percentile
+Basal Ganglia Norm 95th Percentile
+Basal Ganglia Left Norm Percentile
+Basal Ganglia Left Norm 5th Percentile
+Basal Ganglia Left Norm 95th Percentile
+Basal Ganglia Right Norm Percentile
+Basal Ganglia Right Norm 5th Percentile
+Basal Ganglia Right Norm 95th Percentile
+Basal Ganglia Asymmetry Index
+Basal Ganglia Asymmetry Norm Percentile
+Basal Ganglia Asymmetry Norm 5th Percentile
+Basal Ganglia Asymmetry Norm 95th Percentile
+Brainstem Total Volume
+Brainstem Left Side Volume
+Brainstem Right Side Volume
+Brainstem Total Percent Of Icv
+Brainstem Left Percent Of Icv
+Brainstem Right Percent Of Icv
+Brainstem Norm Percentile
+Brainstem Norm 5th Percentile
+Brainstem Norm 95th Percentile
+Brainstem Asymmetry Index
+Caudal Anterior Cingulate Total Volume
+Caudal Anterior Cingulate Left Side Volume
+Caudal Anterior Cingulate Right Side Volume
+Caudal Anterior Cingulate Total Percent Of Icv
+Caudal Anterior Cingulate Left Percent Of Icv
+Caudal Anterior Cingulate Right Percent Of Icv
+Caudal Anterior Cingulate Norm Percentile
+Caudal Anterior Cingulate Norm 5th Percentile
+Caudal Anterior Cingulate Norm 95th Percentile
+Caudal Anterior Cingulate Left Norm Percentile
+Caudal Anterior Cingulate Left Norm 5th Percentile
+Caudal Anterior Cingulate Left Norm 95th Percentile
+Caudal Anterior Cingulate Right Norm Percentile
+Caudal Anterior Cingulate Right Norm 5th Percentile
+Caudal Anterior Cingulate Right Norm 95th Percentile
+Caudal Anterior Cingulate Asymmetry Index
+Caudal Anterior Cingulate Asymmetry Norm Percentile
+Caudal Anterior Cingulate Asymmetry Norm 5th Percentile
+Caudal Anterior Cingulate Asymmetry Norm 95th Percentile
+Anterior Cingulate Total Volume
+Anterior Cingulate Left Side Volume
+Anterior Cingulate Right Side Volume
+Anterior Cingulate Total Percent Of Icv
+Anterior Cingulate Left Percent Of Icv
+Anterior Cingulate Right Percent Of Icv
+Anterior Cingulate Norm Percentile
+Anterior Cingulate Norm 5th Percentile
+Anterior Cingulate Norm 95th Percentile
+Anterior Cingulate Left Norm Percentile
+Anterior Cingulate Left Norm 5th Percentile
+Anterior Cingulate Left Norm 95th Percentile
+Anterior Cingulate Right Norm Percentile
+Anterior Cingulate Right Norm 5th Percentile
+Anterior Cingulate Right Norm 95th Percentile
+Anterior Cingulate Asymmetry Index
+Anterior Cingulate Asymmetry Norm Percentile
+Anterior Cingulate Asymmetry Norm 5th Percentile
+Anterior Cingulate Asymmetry Norm 95th Percentile
+Caudate Total Volume
+Caudate Left Side Volume
+Caudate Right Side Volume
+Caudate Total Percent Of Icv
+Caudate Left Percent Of Icv
+Caudate Right Percent Of Icv
+Caudate Norm Percentile
+Caudate Norm 5th Percentile
+Caudate Norm 95th Percentile
+Caudate Left Norm Percentile
+Caudate Left Norm 5th Percentile
+Caudate Left Norm 95th Percentile
+Caudate Right Norm Percentile
+Caudate Right Norm 5th Percentile
+Caudate Right Norm 95th Percentile
+Caudate Asymmetry Index
+Caudate Asymmetry Norm Percentile
+Caudate Asymmetry Norm 5th Percentile
+Caudate Asymmetry Norm 95th Percentile
+Cerebellar Gray Matter Total Volume
+Cerebellar Gray Matter Left Side Volume
+Cerebellar Gray Matter Right Side Volume
+Cerebellar Gray Matter Total Percent Of Icv
+Cerebellar Gray Matter Left Percent Of Icv
+Cerebellar Gray Matter Right Percent Of Icv
+Cerebellar Gray Matter Norm Percentile
+Cerebellar Gray Matter Norm 5th Percentile
+Cerebellar Gray Matter Norm 95th Percentile
+Cerebellar Gray Matter Left Norm Percentile
+Cerebellar Gray Matter Left Norm 5th Percentile
+Cerebellar Gray Matter Left Norm 95th Percentile
+Cerebellar Gray Matter Right Norm Percentile
+Cerebellar Gray Matter Right Norm 5th Percentile
+Cerebellar Gray Matter Right Norm 95th Percentile
+Cerebellar Gray Matter Asymmetry Index
+Cerebellar Gray Matter Asymmetry Norm Percentile
+Cerebellar Gray Matter Asymmetry Norm 5th Percentile
+Cerebellar Gray Matter Asymmetry Norm 95th Percentile
+Cerebellar White Matter Total Volume
+Cerebellar White Matter Left Side Volume
+Cerebellar White Matter Right Side Volume
+Cerebellar White Matter Total Percent Of Icv
+Cerebellar White Matter Left Percent Of Icv
+Cerebellar White Matter Right Percent Of Icv
+Cerebellar White Matter Norm Percentile
+Cerebellar White Matter Norm 5th Percentile
+Cerebellar White Matter Norm 95th Percentile
+Cerebellar White Matter Left Norm Percentile
+Cerebellar White Matter Left Norm 5th Percentile
+Cerebellar White Matter Left Norm 95th Percentile
+Cerebellar White Matter Right Norm Percentile
+Cerebellar White Matter Right Norm 5th Percentile
+Cerebellar White Matter Right Norm 95th Percentile
+Cerebellar White Matter Asymmetry Index
+Cerebellar White Matter Asymmetry Norm Percentile
+Cerebellar White Matter Asymmetry Norm 5th Percentile
+Cerebellar White Matter Asymmetry Norm 95th Percentile
+Cerebellum Total Volume
+Cerebellum Left Side Volume
+Cerebellum Right Side Volume
+Cerebellum Total Percent Of Icv
+Cerebellum Left Percent Of Icv
+Cerebellum Right Percent Of Icv
+Cerebellum Norm Percentile
+Cerebellum Norm 5th Percentile
+Cerebellum Norm 95th Percentile
+Cerebellum Left Norm Percentile
+Cerebellum Left Norm 5th Percentile
+Cerebellum Left Norm 95th Percentile
+Cerebellum Right Norm Percentile
+Cerebellum Right Norm 5th Percentile
+Cerebellum Right Norm 95th Percentile
+Cerebellum Asymmetry Index
+Cerebellum Asymmetry Norm Percentile
+Cerebellum Asymmetry Norm 5th Percentile
+Cerebellum Asymmetry Norm 95th Percentile
+Cingulate Total Volume
+Cingulate Left Side Volume
+Cingulate Right Side Volume
+Cingulate Total Percent Of Icv
+Cingulate Left Percent Of Icv
+Cingulate Right Percent Of Icv
+Cingulate Norm Percentile
+Cingulate Norm 5th Percentile
+Cingulate Norm 95th Percentile
+Cingulate Left Norm Percentile
+Cingulate Left Norm 5th Percentile
+Cingulate Left Norm 95th Percentile
+Cingulate Right Norm Percentile
+Cingulate Right Norm 5th Percentile
+Cingulate Right Norm 95th Percentile
+Cingulate Asymmetry Index
+Cingulate Asymmetry Norm Percentile
+Cingulate Asymmetry Norm 5th Percentile
+Cingulate Asymmetry Norm 95th Percentile
+Corpus Callosum Total Volume
+Corpus Callosum Left Side Volume
+Corpus Callosum Right Side Volume
+Corpus Callosum Total Percent Of Icv
+Corpus Callosum Left Percent Of Icv
+Corpus Callosum Right Percent Of Icv
+Corpus Callosum Asymmetry Index
+Cuneus Total Volume
+Cuneus Left Side Volume
+Cuneus Right Side Volume
+Cuneus Total Percent Of Icv
+Cuneus Left Percent Of Icv
+Cuneus Right Percent Of Icv
+Cuneus Norm Percentile
+Cuneus Norm 5th Percentile
+Cuneus Norm 95th Percentile
+Cuneus Left Norm Percentile
+Cuneus Left Norm 5th Percentile
+Cuneus Left Norm 95th Percentile
+Cuneus Right Norm Percentile
+Cuneus Right Norm 5th Percentile
+Cuneus Right Norm 95th Percentile
+Cuneus Asymmetry Index
+Cuneus Asymmetry Norm Percentile
+Cuneus Asymmetry Norm 5th Percentile
+Cuneus Asymmetry Norm 95th Percentile
+Entorhinal Cortex Total Volume
+Entorhinal Cortex Left Side Volume
+Entorhinal Cortex Right Side Volume
+Entorhinal Cortex Total Percent Of Icv
+Entorhinal Cortex Left Percent Of Icv
+Entorhinal Cortex Right Percent Of Icv
+Entorhinal Cortex Norm Percentile
+Entorhinal Cortex Norm 5th Percentile
+Entorhinal Cortex Norm 95th Percentile
+Entorhinal Cortex Left Norm Percentile
+Entorhinal Cortex Left Norm 5th Percentile
+Entorhinal Cortex Left Norm 95th Percentile
+Entorhinal Cortex Right Norm Percentile
+Entorhinal Cortex Right Norm 5th Percentile
+Entorhinal Cortex Right Norm 95th Percentile
+Entorhinal Cortex Asymmetry Index
+Entorhinal Cortex Asymmetry Norm Percentile
+Entorhinal Cortex Asymmetry Norm 5th Percentile
+Entorhinal Cortex Asymmetry Norm 95th Percentile
+5th Ventricle Total Volume
+5th Ventricle Left Side Volume
+5th Ventricle Right Side Volume
+5th Ventricle Total Percent Of Icv
+5th Ventricle Left Percent Of Icv
+5th Ventricle Right Percent Of Icv
+5th Ventricle Asymmetry Index
+Forebrain Parenchyma Total Volume
+Forebrain Parenchyma Left Side Volume
+Forebrain Parenchyma Right Side Volume
+Forebrain Parenchyma Total Percent Of Icv
+Forebrain Parenchyma Left Percent Of Icv
+Forebrain Parenchyma Right Percent Of Icv
+Forebrain Parenchyma Norm Percentile
+Forebrain Parenchyma Norm 5th Percentile
+Forebrain Parenchyma Norm 95th Percentile
+Forebrain Parenchyma Left Norm Percentile
+Forebrain Parenchyma Left Norm 5th Percentile
+Forebrain Parenchyma Left Norm 95th Percentile
+Forebrain Parenchyma Right Norm Percentile
+Forebrain Parenchyma Right Norm 5th Percentile
+Forebrain Parenchyma Right Norm 95th Percentile
+Forebrain Parenchyma Asymmetry Index
+Forebrain Parenchyma Asymmetry Norm Percentile
+Forebrain Parenchyma Asymmetry Norm 5th Percentile
+Forebrain Parenchyma Asymmetry Norm 95th Percentile
+4th Ventricle Total Volume
+4th Ventricle Left Side Volume
+4th Ventricle Right Side Volume
+4th Ventricle Total Percent Of Icv
+4th Ventricle Left Percent Of Icv
+4th Ventricle Right Percent Of Icv
+4th Ventricle Norm Percentile
+4th Ventricle Norm 5th Percentile
+4th Ventricle Norm 95th Percentile
+4th Ventricle Asymmetry Index
+Frontal Lobe Total Volume
+Frontal Lobe Left Side Volume
+Frontal Lobe Right Side Volume
+Frontal Lobe Total Percent Of Icv
+Frontal Lobe Left Percent Of Icv
+Frontal Lobe Right Percent Of Icv
+Frontal Lobe Norm Percentile
+Frontal Lobe Norm 5th Percentile
+Frontal Lobe Norm 95th Percentile
+Frontal Lobe Left Norm Percentile
+Frontal Lobe Left Norm 5th Percentile
+Frontal Lobe Left Norm 95th Percentile
+Frontal Lobe Right Norm Percentile
+Frontal Lobe Right Norm 5th Percentile
+Frontal Lobe Right Norm 95th Percentile
+Frontal Lobe Asymmetry Index
+Frontal Lobe Asymmetry Norm Percentile
+Frontal Lobe Asymmetry Norm 5th Percentile
+Frontal Lobe Asymmetry Norm 95th Percentile
+Frontal Pole Total Volume
+Frontal Pole Left Side Volume
+Frontal Pole Right Side Volume
+Frontal Pole Total Percent Of Icv
+Frontal Pole Left Percent Of Icv
+Frontal Pole Right Percent Of Icv
+Frontal Pole Norm Percentile
+Frontal Pole Norm 5th Percentile
+Frontal Pole Norm 95th Percentile
+Frontal Pole Left Norm Percentile
+Frontal Pole Left Norm 5th Percentile
+Frontal Pole Left Norm 95th Percentile
+Frontal Pole Right Norm Percentile
+Frontal Pole Right Norm 5th Percentile
+Frontal Pole Right Norm 95th Percentile
+Frontal Pole Asymmetry Index
+Frontal Pole Asymmetry Norm Percentile
+Frontal Pole Asymmetry Norm 5th Percentile
+Frontal Pole Asymmetry Norm 95th Percentile
+Fusiform Total Volume
+Fusiform Left Side Volume
+Fusiform Right Side Volume
+Fusiform Total Percent Of Icv
+Fusiform Left Percent Of Icv
+Fusiform Right Percent Of Icv
+Fusiform Norm Percentile
+Fusiform Norm 5th Percentile
+Fusiform Norm 95th Percentile
+Fusiform Left Norm Percentile
+Fusiform Left Norm 5th Percentile
+Fusiform Left Norm 95th Percentile
+Fusiform Right Norm Percentile
+Fusiform Right Norm 5th Percentile
+Fusiform Right Norm 95th Percentile
+Fusiform Asymmetry Index
+Fusiform Asymmetry Norm Percentile
+Fusiform Asymmetry Norm 5th Percentile
+Fusiform Asymmetry Norm 95th Percentile
+Cortical Gray Matter Total Volume
+Cortical Gray Matter Left Side Volume
+Cortical Gray Matter Right Side Volume
+Cortical Gray Matter Total Percent Of Icv
+Cortical Gray Matter Left Percent Of Icv
+Cortical Gray Matter Right Percent Of Icv
+Cortical Gray Matter Norm Percentile
+Cortical Gray Matter Norm 5th Percentile
+Cortical Gray Matter Norm 95th Percentile
+Cortical Gray Matter Left Norm Percentile
+Cortical Gray Matter Left Norm 5th Percentile
+Cortical Gray Matter Left Norm 95th Percentile
+Cortical Gray Matter Right Norm Percentile
+Cortical Gray Matter Right Norm 5th Percentile
+Cortical Gray Matter Right Norm 95th Percentile
+Cortical Gray Matter Asymmetry Index
+Cortical Gray Matter Asymmetry Norm Percentile
+Cortical Gray Matter Asymmetry Norm 5th Percentile
+Cortical Gray Matter Asymmetry Norm 95th Percentile
+Hippocampus Total Volume
+Hippocampus Left Side Volume
+Hippocampus Right Side Volume
+Hippocampus Total Percent Of Icv
+Hippocampus Left Percent Of Icv
+Hippocampus Right Percent Of Icv
+Hippocampus Norm Percentile
+Hippocampus Norm 5th Percentile
+Hippocampus Norm 95th Percentile
+Hippocampus Left Norm Percentile
+Hippocampus Left Norm 5th Percentile
+Hippocampus Left Norm 95th Percentile
+Hippocampus Right Norm Percentile
+Hippocampus Right Norm 5th Percentile
+Hippocampus Right Norm 95th Percentile
+Hippocampus Asymmetry Index
+Hippocampus Asymmetry Norm Percentile
+Hippocampus Asymmetry Norm 5th Percentile
+Hippocampus Asymmetry Norm 95th Percentile
+ILV Choroid Plexus Total Volume
+ILV Choroid Plexus Left Side Volume
+ILV Choroid Plexus Right Side Volume
+ILV Choroid Plexus Total Percent Of Icv
+ILV Choroid Plexus Left Percent Of Icv
+ILV Choroid Plexus Right Percent Of Icv
+ILV Choroid Plexus Asymmetry Index
+Inferior Frontal Total Volume
+Inferior Frontal Left Side Volume
+Inferior Frontal Right Side Volume
+Inferior Frontal Total Percent Of Icv
+Inferior Frontal Left Percent Of Icv
+Inferior Frontal Right Percent Of Icv
+Inferior Frontal Norm Percentile
+Inferior Frontal Norm 5th Percentile
+Inferior Frontal Norm 95th Percentile
+Inferior Frontal Left Norm Percentile
+Inferior Frontal Left Norm 5th Percentile
+Inferior Frontal Left Norm 95th Percentile
+Inferior Frontal Right Norm Percentile
+Inferior Frontal Right Norm 5th Percentile
+Inferior Frontal Right Norm 95th Percentile
+Inferior Frontal Asymmetry Index
+Inferior Frontal Asymmetry Norm Percentile
+Inferior Frontal Asymmetry Norm 5th Percentile
+Inferior Frontal Asymmetry Norm 95th Percentile
+Inferior Lateral Ventricle Total Volume
+Inferior Lateral Ventricle Left Side Volume
+Inferior Lateral Ventricle Right Side Volume
+Inferior Lateral Ventricle Total Percent Of Icv
+Inferior Lateral Ventricle Left Percent Of Icv
+Inferior Lateral Ventricle Right Percent Of Icv
+Inferior Lateral Ventricle Norm Percentile
+Inferior Lateral Ventricle Norm 5th Percentile
+Inferior Lateral Ventricle Norm 95th Percentile
+Inferior Lateral Ventricle Left Norm Percentile
+Inferior Lateral Ventricle Left Norm 5th Percentile
+Inferior Lateral Ventricle Left Norm 95th Percentile
+Inferior Lateral Ventricle Right Norm Percentile
+Inferior Lateral Ventricle Right Norm 5th Percentile
+Inferior Lateral Ventricle Right Norm 95th Percentile
+Inferior Lateral Ventricle Asymmetry Index
+Inferior Lateral Ventricle Asymmetry Norm Percentile
+Inferior Lateral Ventricle Asymmetry Norm 5th Percentile
+Inferior Lateral Ventricle Asymmetry Norm 95th Percentile
+Inferior Parietal Total Volume
+Inferior Parietal Left Side Volume
+Inferior Parietal Right Side Volume
+Inferior Parietal Total Percent Of Icv
+Inferior Parietal Left Percent Of Icv
+Inferior Parietal Right Percent Of Icv
+Inferior Parietal Norm Percentile
+Inferior Parietal Norm 5th Percentile
+Inferior Parietal Norm 95th Percentile
+Inferior Parietal Left Norm Percentile
+Inferior Parietal Left Norm 5th Percentile
+Inferior Parietal Left Norm 95th Percentile
+Inferior Parietal Right Norm Percentile
+Inferior Parietal Right Norm 5th Percentile
+Inferior Parietal Right Norm 95th Percentile
+Inferior Parietal Asymmetry Index
+Inferior Parietal Asymmetry Norm Percentile
+Inferior Parietal Asymmetry Norm 5th Percentile
+Inferior Parietal Asymmetry Norm 95th Percentile
+Inferior Temporal Total Volume
+Inferior Temporal Left Side Volume
+Inferior Temporal Right Side Volume
+Inferior Temporal Total Percent Of Icv
+Inferior Temporal Left Percent Of Icv
+Inferior Temporal Right Percent Of Icv
+Inferior Temporal Norm Percentile
+Inferior Temporal Norm 5th Percentile
+Inferior Temporal Norm 95th Percentile
+Inferior Temporal Left Norm Percentile
+Inferior Temporal Left Norm 5th Percentile
+Inferior Temporal Left Norm 95th Percentile
+Inferior Temporal Right Norm Percentile
+Inferior Temporal Right Norm 5th Percentile
+Inferior Temporal Right Norm 95th Percentile
+Inferior Temporal Asymmetry Index
+Inferior Temporal Asymmetry Norm Percentile
+Inferior Temporal Asymmetry Norm 5th Percentile
+Inferior Temporal Asymmetry Norm 95th Percentile
+Intracranial Volume Total Volume
+Intracranial Volume Left Side Volume
+Intracranial Volume Right Side Volume
+Intracranial Volume Total Percent Of Icv
+Intracranial Volume Left Percent Of Icv
+Intracranial Volume Right Percent Of Icv
+Intracranial Volume Norm Percentile
+Intracranial Volume Norm 5th Percentile
+Intracranial Volume Norm 95th Percentile
+Intracranial Volume Asymmetry Index
+Isthmus Cingulate Total Volume
+Isthmus Cingulate Left Side Volume
+Isthmus Cingulate Right Side Volume
+Isthmus Cingulate Total Percent Of Icv
+Isthmus Cingulate Left Percent Of Icv
+Isthmus Cingulate Right Percent Of Icv
+Isthmus Cingulate Norm Percentile
+Isthmus Cingulate Norm 5th Percentile
+Isthmus Cingulate Norm 95th Percentile
+Isthmus Cingulate Left Norm Percentile
+Isthmus Cingulate Left Norm 5th Percentile
+Isthmus Cingulate Left Norm 95th Percentile
+Isthmus Cingulate Right Norm Percentile
+Isthmus Cingulate Right Norm 5th Percentile
+Isthmus Cingulate Right Norm 95th Percentile
+Isthmus Cingulate Asymmetry Index
+Isthmus Cingulate Asymmetry Norm Percentile
+Isthmus Cingulate Asymmetry Norm 5th Percentile
+Isthmus Cingulate Asymmetry Norm 95th Percentile
+SLV Choroid Plexus Total Volume
+SLV Choroid Plexus Left Side Volume
+SLV Choroid Plexus Right Side Volume
+SLV Choroid Plexus Total Percent Of Icv
+SLV Choroid Plexus Left Percent Of Icv
+SLV Choroid Plexus Right Percent Of Icv
+SLV Choroid Plexus Asymmetry Index
+Lateral Occipital Total Volume
+Lateral Occipital Left Side Volume
+Lateral Occipital Right Side Volume
+Lateral Occipital Total Percent Of Icv
+Lateral Occipital Left Percent Of Icv
+Lateral Occipital Right Percent Of Icv
+Lateral Occipital Norm Percentile
+Lateral Occipital Norm 5th Percentile
+Lateral Occipital Norm 95th Percentile
+Lateral Occipital Left Norm Percentile
+Lateral Occipital Left Norm 5th Percentile
+Lateral Occipital Left Norm 95th Percentile
+Lateral Occipital Right Norm Percentile
+Lateral Occipital Right Norm 5th Percentile
+Lateral Occipital Right Norm 95th Percentile
+Lateral Occipital Asymmetry Index
+Lateral Occipital Asymmetry Norm Percentile
+Lateral Occipital Asymmetry Norm 5th Percentile
+Lateral Occipital Asymmetry Norm 95th Percentile
+Lateral Orbitofrontal Total Volume
+Lateral Orbitofrontal Left Side Volume
+Lateral Orbitofrontal Right Side Volume
+Lateral Orbitofrontal Total Percent Of Icv
+Lateral Orbitofrontal Left Percent Of Icv
+Lateral Orbitofrontal Right Percent Of Icv
+Lateral Orbitofrontal Norm Percentile
+Lateral Orbitofrontal Norm 5th Percentile
+Lateral Orbitofrontal Norm 95th Percentile
+Lateral Orbitofrontal Left Norm Percentile
+Lateral Orbitofrontal Left Norm 5th Percentile
+Lateral Orbitofrontal Left Norm 95th Percentile
+Lateral Orbitofrontal Right Norm Percentile
+Lateral Orbitofrontal Right Norm 5th Percentile
+Lateral Orbitofrontal Right Norm 95th Percentile
+Lateral Orbitofrontal Asymmetry Index
+Lateral Orbitofrontal Asymmetry Norm Percentile
+Lateral Orbitofrontal Asymmetry Norm 5th Percentile
+Lateral Orbitofrontal Asymmetry Norm 95th Percentile
+Superior Lateral Ventricle Total Volume
+Superior Lateral Ventricle Left Side Volume
+Superior Lateral Ventricle Right Side Volume
+Superior Lateral Ventricle Total Percent Of Icv
+Superior Lateral Ventricle Left Percent Of Icv
+Superior Lateral Ventricle Right Percent Of Icv
+Superior Lateral Ventricle Norm Percentile
+Superior Lateral Ventricle Norm 5th Percentile
+Superior Lateral Ventricle Norm 95th Percentile
+Superior Lateral Ventricle Left Norm Percentile
+Superior Lateral Ventricle Left Norm 5th Percentile
+Superior Lateral Ventricle Left Norm 95th Percentile
+Superior Lateral Ventricle Right Norm Percentile
+Superior Lateral Ventricle Right Norm 5th Percentile
+Superior Lateral Ventricle Right Norm 95th Percentile
+Superior Lateral Ventricle Asymmetry Index
+Superior Lateral Ventricle Asymmetry Norm Percentile
+Superior Lateral Ventricle Asymmetry Norm 5th Percentile
+Superior Lateral Ventricle Asymmetry Norm 95th Percentile
+Lingual Total Volume
+Lingual Left Side Volume
+Lingual Right Side Volume
+Lingual Total Percent Of Icv
+Lingual Left Percent Of Icv
+Lingual Right Percent Of Icv
+Lingual Norm Percentile
+Lingual Norm 5th Percentile
+Lingual Norm 95th Percentile
+Lingual Left Norm Percentile
+Lingual Left Norm 5th Percentile
+Lingual Left Norm 95th Percentile
+Lingual Right Norm Percentile
+Lingual Right Norm 5th Percentile
+Lingual Right Norm 95th Percentile
+Lingual Asymmetry Index
+Lingual Asymmetry Norm Percentile
+Lingual Asymmetry Norm 5th Percentile
+Lingual Asymmetry Norm 95th Percentile
+Medial Occipital Total Volume
+Medial Occipital Left Side Volume
+Medial Occipital Right Side Volume
+Medial Occipital Total Percent Of Icv
+Medial Occipital Left Percent Of Icv
+Medial Occipital Right Percent Of Icv
+Medial Occipital Norm Percentile
+Medial Occipital Norm 5th Percentile
+Medial Occipital Norm 95th Percentile
+Medial Occipital Left Norm Percentile
+Medial Occipital Left Norm 5th Percentile
+Medial Occipital Left Norm 95th Percentile
+Medial Occipital Right Norm Percentile
+Medial Occipital Right Norm 5th Percentile
+Medial Occipital Right Norm 95th Percentile
+Medial Occipital Asymmetry Index
+Medial Occipital Asymmetry Norm Percentile
+Medial Occipital Asymmetry Norm 5th Percentile
+Medial Occipital Asymmetry Norm 95th Percentile
+Medial Orbitofrontal Total Volume
+Medial Orbitofrontal Left Side Volume
+Medial Orbitofrontal Right Side Volume
+Medial Orbitofrontal Total Percent Of Icv
+Medial Orbitofrontal Left Percent Of Icv
+Medial Orbitofrontal Right Percent Of Icv
+Medial Orbitofrontal Norm Percentile
+Medial Orbitofrontal Norm 5th Percentile
+Medial Orbitofrontal Norm 95th Percentile
+Medial Orbitofrontal Left Norm Percentile
+Medial Orbitofrontal Left Norm 5th Percentile
+Medial Orbitofrontal Left Norm 95th Percentile
+Medial Orbitofrontal Right Norm Percentile
+Medial Orbitofrontal Right Norm 5th Percentile
+Medial Orbitofrontal Right Norm 95th Percentile
+Medial Orbitofrontal Asymmetry Index
+Medial Orbitofrontal Asymmetry Norm Percentile
+Medial Orbitofrontal Asymmetry Norm 5th Percentile
+Medial Orbitofrontal Asymmetry Norm 95th Percentile
+Medial Parietal Total Volume
+Medial Parietal Left Side Volume
+Medial Parietal Right Side Volume
+Medial Parietal Total Percent Of Icv
+Medial Parietal Left Percent Of Icv
+Medial Parietal Right Percent Of Icv
+Medial Parietal Norm Percentile
+Medial Parietal Norm 5th Percentile
+Medial Parietal Norm 95th Percentile
+Medial Parietal Left Norm Percentile
+Medial Parietal Left Norm 5th Percentile
+Medial Parietal Left Norm 95th Percentile
+Medial Parietal Right Norm Percentile
+Medial Parietal Right Norm 5th Percentile
+Medial Parietal Right Norm 95th Percentile
+Medial Parietal Asymmetry Index
+Medial Parietal Asymmetry Norm Percentile
+Medial Parietal Asymmetry Norm 5th Percentile
+Medial Parietal Asymmetry Norm 95th Percentile
+Middle Frontal Total Volume
+Middle Frontal Left Side Volume
+Middle Frontal Right Side Volume
+Middle Frontal Total Percent Of Icv
+Middle Frontal Left Percent Of Icv
+Middle Frontal Right Percent Of Icv
+Middle Frontal Norm Percentile
+Middle Frontal Norm 5th Percentile
+Middle Frontal Norm 95th Percentile
+Middle Frontal Left Norm Percentile
+Middle Frontal Left Norm 5th Percentile
+Middle Frontal Left Norm 95th Percentile
+Middle Frontal Right Norm Percentile
+Middle Frontal Right Norm 5th Percentile
+Middle Frontal Right Norm 95th Percentile
+Middle Frontal Asymmetry Index
+Middle Frontal Asymmetry Norm Percentile
+Middle Frontal Asymmetry Norm 5th Percentile
+Middle Frontal Asymmetry Norm 95th Percentile
+Middle Temporal Total Volume
+Middle Temporal Left Side Volume
+Middle Temporal Right Side Volume
+Middle Temporal Total Percent Of Icv
+Middle Temporal Left Percent Of Icv
+Middle Temporal Right Percent Of Icv
+Middle Temporal Norm Percentile
+Middle Temporal Norm 5th Percentile
+Middle Temporal Norm 95th Percentile
+Middle Temporal Left Norm Percentile
+Middle Temporal Left Norm 5th Percentile
+Middle Temporal Left Norm 95th Percentile
+Middle Temporal Right Norm Percentile
+Middle Temporal Right Norm 5th Percentile
+Middle Temporal Right Norm 95th Percentile
+Middle Temporal Asymmetry Index
+Middle Temporal Asymmetry Norm Percentile
+Middle Temporal Asymmetry Norm 5th Percentile
+Middle Temporal Asymmetry Norm 95th Percentile
+Nucleus Accumbens Total Volume
+Nucleus Accumbens Left Side Volume
+Nucleus Accumbens Right Side Volume
+Nucleus Accumbens Total Percent Of Icv
+Nucleus Accumbens Left Percent Of Icv
+Nucleus Accumbens Right Percent Of Icv
+Nucleus Accumbens Norm Percentile
+Nucleus Accumbens Norm 5th Percentile
+Nucleus Accumbens Norm 95th Percentile
+Nucleus Accumbens Left Norm Percentile
+Nucleus Accumbens Left Norm 5th Percentile
+Nucleus Accumbens Left Norm 95th Percentile
+Nucleus Accumbens Right Norm Percentile
+Nucleus Accumbens Right Norm 5th Percentile
+Nucleus Accumbens Right Norm 95th Percentile
+Nucleus Accumbens Asymmetry Index
+Nucleus Accumbens Asymmetry Norm Percentile
+Nucleus Accumbens Asymmetry Norm 5th Percentile
+Nucleus Accumbens Asymmetry Norm 95th Percentile
+Occipital Lobe Total Volume
+Occipital Lobe Left Side Volume
+Occipital Lobe Right Side Volume
+Occipital Lobe Total Percent Of Icv
+Occipital Lobe Left Percent Of Icv
+Occipital Lobe Right Percent Of Icv
+Occipital Lobe Norm Percentile
+Occipital Lobe Norm 5th Percentile
+Occipital Lobe Norm 95th Percentile
+Occipital Lobe Left Norm Percentile
+Occipital Lobe Left Norm 5th Percentile
+Occipital Lobe Left Norm 95th Percentile
+Occipital Lobe Right Norm Percentile
+Occipital Lobe Right Norm 5th Percentile
+Occipital Lobe Right Norm 95th Percentile
+Occipital Lobe Asymmetry Index
+Occipital Lobe Asymmetry Norm Percentile
+Occipital Lobe Asymmetry Norm 5th Percentile
+Occipital Lobe Asymmetry Norm 95th Percentile
+Pallidum Total Volume
+Pallidum Left Side Volume
+Pallidum Right Side Volume
+Pallidum Total Percent Of Icv
+Pallidum Left Percent Of Icv
+Pallidum Right Percent Of Icv
+Pallidum Norm Percentile
+Pallidum Norm 5th Percentile
+Pallidum Norm 95th Percentile
+Pallidum Left Norm Percentile
+Pallidum Left Norm 5th Percentile
+Pallidum Left Norm 95th Percentile
+Pallidum Right Norm Percentile
+Pallidum Right Norm 5th Percentile
+Pallidum Right Norm 95th Percentile
+Pallidum Asymmetry Index
+Pallidum Asymmetry Norm Percentile
+Pallidum Asymmetry Norm 5th Percentile
+Pallidum Asymmetry Norm 95th Percentile
+Paracentral Total Volume
+Paracentral Left Side Volume
+Paracentral Right Side Volume
+Paracentral Total Percent Of Icv
+Paracentral Left Percent Of Icv
+Paracentral Right Percent Of Icv
+Paracentral Norm Percentile
+Paracentral Norm 5th Percentile
+Paracentral Norm 95th Percentile
+Paracentral Left Norm Percentile
+Paracentral Left Norm 5th Percentile
+Paracentral Left Norm 95th Percentile
+Paracentral Right Norm Percentile
+Paracentral Right Norm 5th Percentile
+Paracentral Right Norm 95th Percentile
+Paracentral Asymmetry Index
+Paracentral Asymmetry Norm Percentile
+Paracentral Asymmetry Norm 5th Percentile
+Paracentral Asymmetry Norm 95th Percentile
+Parahippocampal Total Volume
+Parahippocampal Left Side Volume
+Parahippocampal Right Side Volume
+Parahippocampal Total Percent Of Icv
+Parahippocampal Left Percent Of Icv
+Parahippocampal Right Percent Of Icv
+Parahippocampal Norm Percentile
+Parahippocampal Norm 5th Percentile
+Parahippocampal Norm 95th Percentile
+Parahippocampal Left Norm Percentile
+Parahippocampal Left Norm 5th Percentile
+Parahippocampal Left Norm 95th Percentile
+Parahippocampal Right Norm Percentile
+Parahippocampal Right Norm 5th Percentile
+Parahippocampal Right Norm 95th Percentile
+Parahippocampal Asymmetry Index
+Parahippocampal Asymmetry Norm Percentile
+Parahippocampal Asymmetry Norm 5th Percentile
+Parahippocampal Asymmetry Norm 95th Percentile
+Parietal Lobe Total Volume
+Parietal Lobe Left Side Volume
+Parietal Lobe Right Side Volume
+Parietal Lobe Total Percent Of Icv
+Parietal Lobe Left Percent Of Icv
+Parietal Lobe Right Percent Of Icv
+Parietal Lobe Norm Percentile
+Parietal Lobe Norm 5th Percentile
+Parietal Lobe Norm 95th Percentile
+Parietal Lobe Left Norm Percentile
+Parietal Lobe Left Norm 5th Percentile
+Parietal Lobe Left Norm 95th Percentile
+Parietal Lobe Right Norm Percentile
+Parietal Lobe Right Norm 5th Percentile
+Parietal Lobe Right Norm 95th Percentile
+Parietal Lobe Asymmetry Index
+Parietal Lobe Asymmetry Norm Percentile
+Parietal Lobe Asymmetry Norm 5th Percentile
+Parietal Lobe Asymmetry Norm 95th Percentile
+Pars Opercularis Total Volume
+Pars Opercularis Left Side Volume
+Pars Opercularis Right Side Volume
+Pars Opercularis Total Percent Of Icv
+Pars Opercularis Left Percent Of Icv
+Pars Opercularis Right Percent Of Icv
+Pars Opercularis Norm Percentile
+Pars Opercularis Norm 5th Percentile
+Pars Opercularis Norm 95th Percentile
+Pars Opercularis Left Norm Percentile
+Pars Opercularis Left Norm 5th Percentile
+Pars Opercularis Left Norm 95th Percentile
+Pars Opercularis Right Norm Percentile
+Pars Opercularis Right Norm 5th Percentile
+Pars Opercularis Right Norm 95th Percentile
+Pars Opercularis Asymmetry Index
+Pars Opercularis Asymmetry Norm Percentile
+Pars Opercularis Asymmetry Norm 5th Percentile
+Pars Opercularis Asymmetry Norm 95th Percentile
+Pars Orbitalis Total Volume
+Pars Orbitalis Left Side Volume
+Pars Orbitalis Right Side Volume
+Pars Orbitalis Total Percent Of Icv
+Pars Orbitalis Left Percent Of Icv
+Pars Orbitalis Right Percent Of Icv
+Pars Orbitalis Norm Percentile
+Pars Orbitalis Norm 5th Percentile
+Pars Orbitalis Norm 95th Percentile
+Pars Orbitalis Left Norm Percentile
+Pars Orbitalis Left Norm 5th Percentile
+Pars Orbitalis Left Norm 95th Percentile
+Pars Orbitalis Right Norm Percentile
+Pars Orbitalis Right Norm 5th Percentile
+Pars Orbitalis Right Norm 95th Percentile
+Pars Orbitalis Asymmetry Index
+Pars Orbitalis Asymmetry Norm Percentile
+Pars Orbitalis Asymmetry Norm 5th Percentile
+Pars Orbitalis Asymmetry Norm 95th Percentile
+Pars Triangularis Total Volume
+Pars Triangularis Left Side Volume
+Pars Triangularis Right Side Volume
+Pars Triangularis Total Percent Of Icv
+Pars Triangularis Left Percent Of Icv
+Pars Triangularis Right Percent Of Icv
+Pars Triangularis Norm Percentile
+Pars Triangularis Norm 5th Percentile
+Pars Triangularis Norm 95th Percentile
+Pars Triangularis Left Norm Percentile
+Pars Triangularis Left Norm 5th Percentile
+Pars Triangularis Left Norm 95th Percentile
+Pars Triangularis Right Norm Percentile
+Pars Triangularis Right Norm 5th Percentile
+Pars Triangularis Right Norm 95th Percentile
+Pars Triangularis Asymmetry Index
+Pars Triangularis Asymmetry Norm Percentile
+Pars Triangularis Asymmetry Norm 5th Percentile
+Pars Triangularis Asymmetry Norm 95th Percentile
+Pericalcarine Total Volume
+Pericalcarine Left Side Volume
+Pericalcarine Right Side Volume
+Pericalcarine Total Percent Of Icv
+Pericalcarine Left Percent Of Icv
+Pericalcarine Right Percent Of Icv
+Pericalcarine Norm Percentile
+Pericalcarine Norm 5th Percentile
+Pericalcarine Norm 95th Percentile
+Pericalcarine Left Norm Percentile
+Pericalcarine Left Norm 5th Percentile
+Pericalcarine Left Norm 95th Percentile
+Pericalcarine Right Norm Percentile
+Pericalcarine Right Norm 5th Percentile
+Pericalcarine Right Norm 95th Percentile
+Pericalcarine Asymmetry Index
+Pericalcarine Asymmetry Norm Percentile
+Pericalcarine Asymmetry Norm 5th Percentile
+Pericalcarine Asymmetry Norm 95th Percentile
+Posterior Cingulate Total Volume
+Posterior Cingulate Left Side Volume
+Posterior Cingulate Right Side Volume
+Posterior Cingulate Total Percent Of Icv
+Posterior Cingulate Left Percent Of Icv
+Posterior Cingulate Right Percent Of Icv
+Posterior Cingulate Norm Percentile
+Posterior Cingulate Norm 5th Percentile
+Posterior Cingulate Norm 95th Percentile
+Posterior Cingulate Left Norm Percentile
+Posterior Cingulate Left Norm 5th Percentile
+Posterior Cingulate Left Norm 95th Percentile
+Posterior Cingulate Right Norm Percentile
+Posterior Cingulate Right Norm 5th Percentile
+Posterior Cingulate Right Norm 95th Percentile
+Posterior Cingulate Asymmetry Index
+Posterior Cingulate Asymmetry Norm Percentile
+Posterior Cingulate Asymmetry Norm 5th Percentile
+Posterior Cingulate Asymmetry Norm 95th Percentile
+Premotor Total Volume
+Premotor Left Side Volume
+Premotor Right Side Volume
+Premotor Total Percent Of Icv
+Premotor Left Percent Of Icv
+Premotor Right Percent Of Icv
+Premotor Norm Percentile
+Premotor Norm 5th Percentile
+Premotor Norm 95th Percentile
+Premotor Left Norm Percentile
+Premotor Left Norm 5th Percentile
+Premotor Left Norm 95th Percentile
+Premotor Right Norm Percentile
+Premotor Right Norm 5th Percentile
+Premotor Right Norm 95th Percentile
+Premotor Asymmetry Index
+Premotor Asymmetry Norm Percentile
+Premotor Asymmetry Norm 5th Percentile
+Premotor Asymmetry Norm 95th Percentile
+Primary Motor Total Volume
+Primary Motor Left Side Volume
+Primary Motor Right Side Volume
+Primary Motor Total Percent Of Icv
+Primary Motor Left Percent Of Icv
+Primary Motor Right Percent Of Icv
+Primary Motor Norm Percentile
+Primary Motor Norm 5th Percentile
+Primary Motor Norm 95th Percentile
+Primary Motor Left Norm Percentile
+Primary Motor Left Norm 5th Percentile
+Primary Motor Left Norm 95th Percentile
+Primary Motor Right Norm Percentile
+Primary Motor Right Norm 5th Percentile
+Primary Motor Right Norm 95th Percentile
+Primary Motor Asymmetry Index
+Primary Motor Asymmetry Norm Percentile
+Primary Motor Asymmetry Norm 5th Percentile
+Primary Motor Asymmetry Norm 95th Percentile
+Primary Sensory Total Volume
+Primary Sensory Left Side Volume
+Primary Sensory Right Side Volume
+Primary Sensory Total Percent Of Icv
+Primary Sensory Left Percent Of Icv
+Primary Sensory Right Percent Of Icv
+Primary Sensory Norm Percentile
+Primary Sensory Norm 5th Percentile
+Primary Sensory Norm 95th Percentile
+Primary Sensory Left Norm Percentile
+Primary Sensory Left Norm 5th Percentile
+Primary Sensory Left Norm 95th Percentile
+Primary Sensory Right Norm Percentile
+Primary Sensory Right Norm 5th Percentile
+Primary Sensory Right Norm 95th Percentile
+Primary Sensory Asymmetry Index
+Primary Sensory Asymmetry Norm Percentile
+Primary Sensory Asymmetry Norm 5th Percentile
+Primary Sensory Asymmetry Norm 95th Percentile
+Putamen Total Volume
+Putamen Left Side Volume
+Putamen Right Side Volume
+Putamen Total Percent Of Icv
+Putamen Left Percent Of Icv
+Putamen Right Percent Of Icv
+Putamen Norm Percentile
+Putamen Norm 5th Percentile
+Putamen Norm 95th Percentile
+Putamen Left Norm Percentile
+Putamen Left Norm 5th Percentile
+Putamen Left Norm 95th Percentile
+Putamen Right Norm Percentile
+Putamen Right Norm 5th Percentile
+Putamen Right Norm 95th Percentile
+Putamen Asymmetry Index
+Putamen Asymmetry Norm Percentile
+Putamen Asymmetry Norm 5th Percentile
+Putamen Asymmetry Norm 95th Percentile
+Rostral Anterior Cingulate Total Volume
+Rostral Anterior Cingulate Left Side Volume
+Rostral Anterior Cingulate Right Side Volume
+Rostral Anterior Cingulate Total Percent Of Icv
+Rostral Anterior Cingulate Left Percent Of Icv
+Rostral Anterior Cingulate Right Percent Of Icv
+Rostral Anterior Cingulate Norm Percentile
+Rostral Anterior Cingulate Norm 5th Percentile
+Rostral Anterior Cingulate Norm 95th Percentile
+Rostral Anterior Cingulate Left Norm Percentile
+Rostral Anterior Cingulate Left Norm 5th Percentile
+Rostral Anterior Cingulate Left Norm 95th Percentile
+Rostral Anterior Cingulate Right Norm Percentile
+Rostral Anterior Cingulate Right Norm 5th Percentile
+Rostral Anterior Cingulate Right Norm 95th Percentile
+Rostral Anterior Cingulate Asymmetry Index
+Rostral Anterior Cingulate Asymmetry Norm Percentile
+Rostral Anterior Cingulate Asymmetry Norm 5th Percentile
+Rostral Anterior Cingulate Asymmetry Norm 95th Percentile
+Superior Frontal Total Volume
+Superior Frontal Left Side Volume
+Superior Frontal Right Side Volume
+Superior Frontal Total Percent Of Icv
+Superior Frontal Left Percent Of Icv
+Superior Frontal Right Percent Of Icv
+Superior Frontal Norm Percentile
+Superior Frontal Norm 5th Percentile
+Superior Frontal Norm 95th Percentile
+Superior Frontal Left Norm Percentile
+Superior Frontal Left Norm 5th Percentile
+Superior Frontal Left Norm 95th Percentile
+Superior Frontal Right Norm Percentile
+Superior Frontal Right Norm 5th Percentile
+Superior Frontal Right Norm 95th Percentile
+Superior Frontal Asymmetry Index
+Superior Frontal Asymmetry Norm Percentile
+Superior Frontal Asymmetry Norm 5th Percentile
+Superior Frontal Asymmetry Norm 95th Percentile
+Superior Parietal Total Volume
+Superior Parietal Left Side Volume
+Superior Parietal Right Side Volume
+Superior Parietal Total Percent Of Icv
+Superior Parietal Left Percent Of Icv
+Superior Parietal Right Percent Of Icv
+Superior Parietal Norm Percentile
+Superior Parietal Norm 5th Percentile
+Superior Parietal Norm 95th Percentile
+Superior Parietal Left Norm Percentile
+Superior Parietal Left Norm 5th Percentile
+Superior Parietal Left Norm 95th Percentile
+Superior Parietal Right Norm Percentile
+Superior Parietal Right Norm 5th Percentile
+Superior Parietal Right Norm 95th Percentile
+Superior Parietal Asymmetry Index
+Superior Parietal Asymmetry Norm Percentile
+Superior Parietal Asymmetry Norm 5th Percentile
+Superior Parietal Asymmetry Norm 95th Percentile
+Superior Temporal Total Volume
+Superior Temporal Left Side Volume
+Superior Temporal Right Side Volume
+Superior Temporal Total Percent Of Icv
+Superior Temporal Left Percent Of Icv
+Superior Temporal Right Percent Of Icv
+Superior Temporal Norm Percentile
+Superior Temporal Norm 5th Percentile
+Superior Temporal Norm 95th Percentile
+Superior Temporal Left Norm Percentile
+Superior Temporal Left Norm 5th Percentile
+Superior Temporal Left Norm 95th Percentile
+Superior Temporal Right Norm Percentile
+Superior Temporal Right Norm 5th Percentile
+Superior Temporal Right Norm 95th Percentile
+Superior Temporal Asymmetry Index
+Superior Temporal Asymmetry Norm Percentile
+Superior Temporal Asymmetry Norm 5th Percentile
+Superior Temporal Asymmetry Norm 95th Percentile
+Supramarginal Total Volume
+Supramarginal Left Side Volume
+Supramarginal Right Side Volume
+Supramarginal Total Percent Of Icv
+Supramarginal Left Percent Of Icv
+Supramarginal Right Percent Of Icv
+Supramarginal Norm Percentile
+Supramarginal Norm 5th Percentile
+Supramarginal Norm 95th Percentile
+Supramarginal Left Norm Percentile
+Supramarginal Left Norm 5th Percentile
+Supramarginal Left Norm 95th Percentile
+Supramarginal Right Norm Percentile
+Supramarginal Right Norm 5th Percentile
+Supramarginal Right Norm 95th Percentile
+Supramarginal Asymmetry Index
+Supramarginal Asymmetry Norm Percentile
+Supramarginal Asymmetry Norm 5th Percentile
+Supramarginal Asymmetry Norm 95th Percentile
+Temporal Lobe Total Volume
+Temporal Lobe Left Side Volume
+Temporal Lobe Right Side Volume
+Temporal Lobe Total Percent Of Icv
+Temporal Lobe Left Percent Of Icv
+Temporal Lobe Right Percent Of Icv
+Temporal Lobe Norm Percentile
+Temporal Lobe Norm 5th Percentile
+Temporal Lobe Norm 95th Percentile
+Temporal Lobe Left Norm Percentile
+Temporal Lobe Left Norm 5th Percentile
+Temporal Lobe Left Norm 95th Percentile
+Temporal Lobe Right Norm Percentile
+Temporal Lobe Right Norm 5th Percentile
+Temporal Lobe Right Norm 95th Percentile
+Temporal Lobe Asymmetry Index
+Temporal Lobe Asymmetry Norm Percentile
+Temporal Lobe Asymmetry Norm 5th Percentile
+Temporal Lobe Asymmetry Norm 95th Percentile
+Temporal Pole Total Volume
+Temporal Pole Left Side Volume
+Temporal Pole Right Side Volume
+Temporal Pole Total Percent Of Icv
+Temporal Pole Left Percent Of Icv
+Temporal Pole Right Percent Of Icv
+Temporal Pole Norm Percentile
+Temporal Pole Norm 5th Percentile
+Temporal Pole Norm 95th Percentile
+Temporal Pole Left Norm Percentile
+Temporal Pole Left Norm 5th Percentile
+Temporal Pole Left Norm 95th Percentile
+Temporal Pole Right Norm Percentile
+Temporal Pole Right Norm 5th Percentile
+Temporal Pole Right Norm 95th Percentile
+Temporal Pole Asymmetry Index
+Temporal Pole Asymmetry Norm Percentile
+Temporal Pole Asymmetry Norm 5th Percentile
+Temporal Pole Asymmetry Norm 95th Percentile
+Thalamus Total Volume
+Thalamus Left Side Volume
+Thalamus Right Side Volume
+Thalamus Total Percent Of Icv
+Thalamus Left Percent Of Icv
+Thalamus Right Percent Of Icv
+Thalamus Norm Percentile
+Thalamus Norm 5th Percentile
+Thalamus Norm 95th Percentile
+Thalamus Left Norm Percentile
+Thalamus Left Norm 5th Percentile
+Thalamus Left Norm 95th Percentile
+Thalamus Right Norm Percentile
+Thalamus Right Norm 5th Percentile
+Thalamus Right Norm 95th Percentile
+Thalamus Asymmetry Index
+Thalamus Asymmetry Norm Percentile
+Thalamus Asymmetry Norm 5th Percentile
+Thalamus Asymmetry Norm 95th Percentile
+3rd Ventricle Total Volume
+3rd Ventricle Left Side Volume
+3rd Ventricle Right Side Volume
+3rd Ventricle Total Percent Of Icv
+3rd Ventricle Left Percent Of Icv
+3rd Ventricle Right Percent Of Icv
+3rd Ventricle Norm Percentile
+3rd Ventricle Norm 5th Percentile
+3rd Ventricle Norm 95th Percentile
+3rd Ventricle Asymmetry Index
+Ventricle Total Volume
+Ventricle Left Side Volume
+Ventricle Right Side Volume
+Ventricle Total Percent Of Icv
+Ventricle Left Percent Of Icv
+Ventricle Right Percent Of Icv
+Ventricle Norm Percentile
+Ventricle Norm 5th Percentile
+Ventricle Norm 95th Percentile
+Ventricle Left Norm Percentile
+Ventricle Left Norm 5th Percentile
+Ventricle Left Norm 95th Percentile
+Ventricle Right Norm Percentile
+Ventricle Right Norm 5th Percentile
+Ventricle Right Norm 95th Percentile
+Ventricle Asymmetry Index
+Ventricle Asymmetry Norm Percentile
+Ventricle Asymmetry Norm 5th Percentile
+Ventricle Asymmetry Norm 95th Percentile
+Transverse Temporal Total Volume
+Transverse Temporal Left Side Volume
+Transverse Temporal Right Side Volume
+Transverse Temporal Total Percent Of Icv
+Transverse Temporal Left Percent Of Icv
+Transverse Temporal Right Percent Of Icv
+Transverse Temporal Norm Percentile
+Transverse Temporal Norm 5th Percentile
+Transverse Temporal Norm 95th Percentile
+Transverse Temporal Left Norm Percentile
+Transverse Temporal Left Norm 5th Percentile
+Transverse Temporal Left Norm 95th Percentile
+Transverse Temporal Right Norm Percentile
+Transverse Temporal Right Norm 5th Percentile
+Transverse Temporal Right Norm 95th Percentile
+Transverse Temporal Asymmetry Index
+Transverse Temporal Asymmetry Norm Percentile
+Transverse Temporal Asymmetry Norm 5th Percentile
+Transverse Temporal Asymmetry Norm 95th Percentile
+Transverse Temporal + Superior Temporal Total Volume
+Transverse Temporal + Superior Temporal Left Side Volume
+Transverse Temporal + Superior Temporal Right Side Volume
+Transverse Temporal + Superior Temporal Total Percent Of Icv
+Transverse Temporal + Superior Temporal Left Percent Of Icv
+Transverse Temporal + Superior Temporal Right Percent Of Icv
+Transverse Temporal + Superior Temporal Norm Percentile
+Transverse Temporal + Superior Temporal Norm 5th Percentile
+Transverse Temporal + Superior Temporal Norm 95th Percentile
+Transverse Temporal + Superior Temporal Left Norm Percentile
+Transverse Temporal + Superior Temporal Left Norm 5th Percentile
+Transverse Temporal + Superior Temporal Left Norm 95th Percentile
+Transverse Temporal + Superior Temporal Right Norm Percentile
+Transverse Temporal + Superior Temporal Right Norm 5th Percentile
+Transverse Temporal + Superior Temporal Right Norm 95th Percentile
+Transverse Temporal + Superior Temporal Asymmetry Index
+Transverse Temporal + Superior Temporal Asymmetry Norm Percentile
+Transverse Temporal + Superior Temporal Asymmetry Norm 5th Percentile
+Transverse Temporal + Superior Temporal Asymmetry Norm 95th Percentile
+Ventral Diencephalon Total Volume
+Ventral Diencephalon Left Side Volume
+Ventral Diencephalon Right Side Volume
+Ventral Diencephalon Total Percent Of Icv
+Ventral Diencephalon Left Percent Of Icv
+Ventral Diencephalon Right Percent Of Icv
+Ventral Diencephalon Norm Percentile
+Ventral Diencephalon Norm 5th Percentile
+Ventral Diencephalon Norm 95th Percentile
+Ventral Diencephalon Left Norm Percentile
+Ventral Diencephalon Left Norm 5th Percentile
+Ventral Diencephalon Left Norm 95th Percentile
+Ventral Diencephalon Right Norm Percentile
+Ventral Diencephalon Right Norm 5th Percentile
+Ventral Diencephalon Right Norm 95th Percentile
+Ventral Diencephalon Asymmetry Index
+Ventral Diencephalon Asymmetry Norm Percentile
+Ventral Diencephalon Asymmetry Norm 5th Percentile
+Ventral Diencephalon Asymmetry Norm 95th Percentile
+Cerebral White Matter Total Volume
+Cerebral White Matter Left Side Volume
+Cerebral White Matter Right Side Volume
+Cerebral White Matter Total Percent Of Icv
+Cerebral White Matter Left Percent Of Icv
+Cerebral White Matter Right Percent Of Icv
+Cerebral White Matter Norm Percentile
+Cerebral White Matter Norm 5th Percentile
+Cerebral White Matter Norm 95th Percentile
+Cerebral White Matter Left Norm Percentile
+Cerebral White Matter Left Norm 5th Percentile
+Cerebral White Matter Left Norm 95th Percentile
+Cerebral White Matter Right Norm Percentile
+Cerebral White Matter Right Norm 5th Percentile
+Cerebral White Matter Right Norm 95th Percentile
+Cerebral White Matter Asymmetry Index
+Cerebral White Matter Asymmetry Norm Percentile
+Cerebral White Matter Asymmetry Norm 5th Percentile
+Cerebral White Matter Asymmetry Norm 95th Percentile
+Cerebral WM Hypointensities* Total Volume
+Cerebral WM Hypointensities* Left Side Volume
+Cerebral WM Hypointensities* Right Side Volume
+Cerebral WM Hypointensities* Total Percent Of Icv
+Cerebral WM Hypointensities* Left Percent Of Icv
+Cerebral WM Hypointensities* Right Percent Of Icv
+Cerebral WM Hypointensities* Norm Percentile
+Cerebral WM Hypointensities* Norm 5th Percentile
+Cerebral WM Hypointensities* Norm 95th Percentile
+Cerebral WM Hypointensities* Left Norm Percentile
+Cerebral WM Hypointensities* Left Norm 5th Percentile
+Cerebral WM Hypointensities* Left Norm 95th Percentile
+Cerebral WM Hypointensities* Right Norm Percentile
+Cerebral WM Hypointensities* Right Norm 5th Percentile
+Cerebral WM Hypointensities* Right Norm 95th Percentile
+Cerebral WM Hypointensities* Asymmetry Index
+Cerebral WM Hypointensities* Asymmetry Norm Percentile
+Cerebral WM Hypointensities* Asymmetry Norm 5th Percentile
+Cerebral WM Hypointensities* Asymmetry Norm 95th Percentile
+Whole Brain Total Volume
+Whole Brain Left Side Volume
+Whole Brain Right Side Volume
+Whole Brain Total Percent Of Icv
+Whole Brain Left Percent Of Icv
+Whole Brain Right Percent Of Icv
+Whole Brain Norm Percentile
+Whole Brain Norm 5th Percentile
+Whole Brain Norm 95th Percentile
+Whole Brain Left Norm Percentile
+Whole Brain Left Norm 5th Percentile
+Whole Brain Left Norm 95th Percentile
+Whole Brain Right Norm Percentile
+Whole Brain Right Norm 5th Percentile
+Whole Brain Right Norm 95th Percentile
+Whole Brain Asymmetry Index
+Whole Brain Asymmetry Norm Percentile
+Whole Brain Asymmetry Norm 5th Percentile
+Whole Brain Asymmetry Norm 95th Percentile
